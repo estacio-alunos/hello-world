@@ -1,2 +1,2 @@
-# hello-word
-vários programinhas "hello word" feito pelos alunos
+# hello-world
+vários programinhas "hello world" feito pelos alunos
