@@ -4,10 +4,14 @@ vários programinhas "hello world" feitos pelos alunos
 
 ## como contribuir
 
-- crie um programa hello world na linguagem de sua preferência
-- caso já exista mas você identifique uma melhoria, abra um
-  pull reuest. não é obrigatório, é pra dar a chance de todo
+- Crie um programa hello world na linguagem de sua preferência
+- Caso já exista mas você identifique uma melhoria, abra um
+  ull reuest. não é obrigatório, é pra dar a chance de todo
   mundo ver a mudança
-- caso queira, adicoine instruções em um documento markdown (que nem este)
+- Caso queira, adicione instruções neste documento markdown (como este)
   sobre como preparar o computador para executar o programa
+- Cada linguagem precisa do seu compilador para rodar na sua IDE(Integrated Development Environment)
+- Para rodar o javascript instale o node.js [Instalar Node](https://nodejs.org/en/download)
+- Para rodar o java instale a JDK(Java development kit) [Instalar JDK](https://www.oracle.com/java/technologies/downloads/)
+- Para rodar o python instale o Python [Instalar Python](https://www.python.org/downloads/)
 
